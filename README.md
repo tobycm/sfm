@@ -1,5 +1,7 @@
 # sfm
 
+a last.fm bot for slack!!!
+
 To install dependencies:
 
 ```bash
