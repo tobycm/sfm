@@ -1,0 +1,16 @@
+{
+  "name": "sfm",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@slack/bolt": "^4.4.0",
+    "bun-sqlite-key-value": "^1.13.1"
+  }
+}
